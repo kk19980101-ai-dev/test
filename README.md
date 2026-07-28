@@ -9,3 +9,4 @@ AI 学习记录
 - clone
 - push
 
+tset
